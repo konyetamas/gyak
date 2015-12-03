@@ -1,0 +1,5 @@
+gyak/bin
+gyak/obj
+
+*.suo 
+*.user 
