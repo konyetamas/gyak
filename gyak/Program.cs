@@ -10,6 +10,7 @@ namespace gyak
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asd");
         }
     }
 }
